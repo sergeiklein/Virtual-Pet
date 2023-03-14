@@ -2,6 +2,11 @@
 Virtual Pets Re-Imagined
 Created by Michaela Young, Trey Crumrine, Sergei Klein
 
+Designed and implemented a virtual pet application.  Two week long team project.
+Enabled users to create a pet, interact with it, and add it to a shelter that holds many other pets.
+Technologies/Processes used: C# (Console Development), Object-Oriented Programming (OOP).
+
+
 Welcome!
 
 HOW TO START:
